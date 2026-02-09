@@ -1,4 +1,4 @@
-# text-editor-diary-python
+# text-editor-dairy-python
 Text Editor Diary
 
 Welcome to Text Editor Diary, a clean and intuitive desktop text editor built using Python and Tkinter. This project was designed to combine simplicity with functionality, giving users an efficient tool for writing, coding, or note-taking.
